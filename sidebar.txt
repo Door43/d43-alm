@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[alm:home|Door43 (alm)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-alm|d43-alm repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-alm/archive/master.zip|d43-alm.zip]]
+
+**Recent Changes**
+{{changes>ns = alm}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/alm|Ethnologue data]]
+
